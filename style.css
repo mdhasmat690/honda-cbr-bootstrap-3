@@ -1,0 +1,27 @@
+.header-bg-colore {
+
+background: #264653; 
+}
+
+hr {
+    width: 7%;
+    color: red;
+    margin: 10px auto;
+}
+
+.modal-color {
+    background-color: #E76F51;
+    color: white;
+}
+
+.gray-scle img {
+    filter: grayscale(100%);
+  }
+
+  .clanint-margin {
+      margin-top: 140px;
+  }
+
+  .asked-margin {
+      margin-top: 140px;
+  }
