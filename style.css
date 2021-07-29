@@ -1,27 +1,35 @@
 .header-bg-colore {
-
-background: #264653; 
+  background: #264653;
 }
 
 hr {
-    width: 7%;
-    color: red;
-    margin: 10px auto;
+  width: 7%;
+  color: red;
+  margin: 10px auto;
 }
 
 .modal-color {
-    background-color: #E76F51;
-    color: white;
+  background-color: #e76f51;
+  color: white;
 }
 
 .gray-scle img {
-    filter: grayscale(100%);
-  }
+  filter: grayscale(100%);
+}
 
-  .clanint-margin {
-      margin-top: 140px;
-  }
+.clanint-margin {
+  margin-top: 140px;
+}
 
-  .asked-margin {
-      margin-top: 140px;
-  }
+.asked-margin {
+  margin-top: 140px;
+}
+
+.foter-bg-colore {
+  background: #0b0d17;
+}
+
+span {
+  padding: 14px 16px;
+  color: white;
+}
